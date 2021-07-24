@@ -4,3 +4,7 @@ Estos archivos estan listos para subirse a <a href="https://replit.com/">replit.
 una vez subidos los archivos teneis que crearos una cuenta en <a href="https://uptimerobot.com">uptimerobot.com</a>
 <br>
 Para asi mantener el bot las 24/7
+
+<br>
+Video tutorial:
+https://www.youtube.com/watch?v=Bh90RWYrMdY
